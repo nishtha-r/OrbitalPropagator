@@ -23,7 +23,9 @@ When running the 24-hour simulation, you will visibly observe the orbital path s
 
 <h2>Visual Preview </h2>
 
-- 
+
+https://github.com/user-attachments/assets/466183fb-cd67-47a4-91ef-8e0403830dcd
+
 
 
 
